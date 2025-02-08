@@ -1,3 +1,3 @@
 # mit-actividad-1.4
-Actividad 2 MIT
+Actividad 1.4 MIT
 INGRID MARCELA CONTRERAS - CTO
